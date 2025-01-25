@@ -7,3 +7,9 @@ sqlalchemy
 mysql-connector-python
 python-dotenv
 pymysql
+ipykernel
+feature-engine
+xgboost
+catboost
+mlflow
+dagshub

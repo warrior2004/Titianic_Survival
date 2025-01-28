@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/my%20lapi/Desktop/Coding/Titanic_Survival/notebook/mlruns/479657386670168055/32bf7c6247284fc2a32d8a31efaf0174/artifacts
+end_time: 1738053334902
+entry_point_name: ''
+experiment_id: '479657386670168055'
+lifecycle_stage: active
+run_id: 32bf7c6247284fc2a32d8a31efaf0174
+run_name: Random Forest
+run_uuid: 32bf7c6247284fc2a32d8a31efaf0174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738053316152
+status: 4
+tags: []
+user_id: root
